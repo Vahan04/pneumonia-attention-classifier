@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.DS_Store
+
+# Data and generated artifacts
+data/
+artifacts/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.png
+*.jpg
+*.jpeg
+
+# Local experiment output
+*.csv
+*.log
